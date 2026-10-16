@@ -1,4 +1,4 @@
-package org.iesalixar.daw2.carlosmarin.servlets.dao;
+package org.iesalixar.daw2.carlosmarin.dao;
 
 import io.github.cdimascio.dotenv.Dotenv;
 import java.sql.Connection;
